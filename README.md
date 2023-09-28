@@ -1,6 +1,6 @@
 ## Development with Python
 
-### Problem Sets
+### Practice Day 💻 - Problem Sets
 
 <dt>
         <dl><p>
